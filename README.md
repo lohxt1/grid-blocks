@@ -5,7 +5,7 @@
 
 ## About The Project
 
-A blocky grid layout prototype with 3D orthographic elements.
+A blocky grid layout prototype with 3D orthographic elements using a JSON config.
 
 ## Tech Stack
 
