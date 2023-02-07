@@ -1,6 +1,6 @@
 <p align="center">
 <img align="center" src="https://lohxt1.github.io/_assets/gridblocks.png" alt="grid-blocks"/>
-<h1 align="center" style="text-decoration:underline;">GRID-BLOCKS/h1>
+<h1 align="center" style="text-decoration:underline;">GRID-BLOCKS</h1>
 </p>
 
 ## About The Project
